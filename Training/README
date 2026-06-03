@@ -7,20 +7,25 @@ This is the training example of CURE-IQA on the LIVEW dataset, which is small en
    
 ## 2. Training the model
 
-   Run'**livew_rt5.py.py**' to train the model.   
+   Run'**livew_rt5.py.py**' to train the model. The files in the folder of '**model'** are obtained from open accessed source code of [Long-CLIP](https://github.com/beichenzbc/Long-CLIP) . 
+  
+
+   
+ 
+
 
 ## If you like this work, please cite:
 
 {
-
-  author={Song, Tianshu and Li, Leida and Cheng, Deqiang and Chen, Pengfei and Wu, Jinjian},
   
-  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+  author={Song, Tianshu and Cheng, Deqiang and Kou, Qiqi and Zhang, Sanyou and Huang, Yipo and Li, Leida},
   
-  title={Active Learning-Based Sample Selection for Label-Efficient Blind Image Quality Assessment}, 
+  journal={IEEE Transactions on Multimedia}, 
   
-  year={2023, Early Access},  
+  title={Content Understanding and Reasoning Enhanced Small-Sample Blind Image Quality Assessment}, 
   
-  doi={10.1109/TCSVT.2023.3341611}
+  year={2026, Early Access},
+ 
+  doi={10.1109/TMM.2026.3688392}
   
 }
