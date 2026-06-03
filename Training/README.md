@@ -7,7 +7,7 @@ This is the training example of CURE-IQA on the LIVEW dataset, which is small en
    
 ## 2. Training the model
 
-   Run'**livew_rt5.py.py**' to train the model. The files in the folder of '**model'** are obtained from open accessed source code of [Long-CLIP](https://github.com/beichenzbc/Long-CLIP) . 
+   Run'**livew_rt5.py**' to train the model. The files in the folder of '**model'** are obtained from open accessed source code of [Long-CLIP](https://github.com/beichenzbc/Long-CLIP) . 
   
  
  
