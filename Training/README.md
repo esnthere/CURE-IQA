@@ -3,7 +3,7 @@ This is the training example of CURE-IQA on the LIVEW dataset, which is small en
 
 ## 1. Data preparation
 
-   To ensure high speed, save training images and lables into 'mat' files. The preparation process please refer to the published paper [CURE-IQA](https://ieeexplore.ieee.org/document/10355923).  Please run '**data_preparation_example_for_livew.py**' to save the training images and labels, and '***.json**' contains the text obtained from VLM/LLM.
+   To ensure high speed, save training images and lables into 'mat' files. The preparation process please refer to the published paper [CURE-IQA](https://ieeexplore.ieee.org/document/11498414).  Please run '**data_preparation_example_for_livew.py**' to save the training images and labels, and '***.json**' contains the text obtained from VLM/LLM.
    
 ## 2. Training the model
 
