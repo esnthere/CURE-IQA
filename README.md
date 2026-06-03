@@ -1,5 +1,5 @@
 # Content Understanding and Reasoning Enhanced Small-Sample Blind Image Quality Assessment
-This is the source code for [CURE-IQA: Content Understanding and Reasoning Enhanced Small-Sample Blind Image Quality Assessment](https://ieeexplore.ieee.org/document/11498414).![CURE-IQA Framework](https://github.com/esnthere/CURE-IQA/blob/main/framework.png)
+This is the source code for [CURE-IQA: Content Understanding and Reasoning Enhanced Small-Sample Blind Image Quality Assessment](https://ieeexplore.ieee.org/document/11498414).![CURE-IQA Framework](https://github.com/esnthere/CURE-IQA/blob/main/framework.jpg)
 
 ## Dependencies and Installation
 Pytorch: 2.11.0 
