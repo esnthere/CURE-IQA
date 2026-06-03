@@ -3,7 +3,9 @@ This is the source code for [CURE-IQA: Content Understanding and Reasoning Enhan
 
 ## Dependencies and Installation
 Pytorch: 2.11.0 
+
 CUDA: 13.0 
+
 Python: 3.11
 
 ## For test:
