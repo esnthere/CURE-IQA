@@ -13,7 +13,7 @@ Python: 3.11
 ### 2. Load pre-trained weight for test  
    The models pre-trained on KonIQ-10k with 1%, 5%, 10%, 25%, 80% samples are released. The files in the folder of '**model'** are obtained from open accessed source code of [Long-CLIP](https://github.com/beichenzbc/Long-CLIP). Please download the checkpoints from Long-CLIP, and put it into the folder of 'checkpoints'. 
    
-   The pre-trained models can be downloaded from: [Pre-trained models](https://pan.baidu.com/s/111iPWcQ7baaC5b771ZQ3Aw?pwd=j7pq). Please download these files and put them in the same folder of code and then run '**test_koniq_rt'*n*'.py**' to make intra/cross dataset test for models trained on *n%* samples.
+   The pre-trained models can be downloaded from: [Pre-trained models](https://pan.baidu.com/s/1jPi2MgzLLZUJiu-4J9YfOQ?pwd=d9cb). Please download these files and put them in the same folder of code and then run '**test_koniq_rt'*n*'.py**' to make intra/cross dataset test for models trained on *n%* samples.
    
    
 ## For train:  
