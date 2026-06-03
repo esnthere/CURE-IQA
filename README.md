@@ -19,7 +19,7 @@ Python: 3.11
    
    
 ## For train:  
-The training code can be available at the 'training' folder.
+The training code can be available at the 'Training' folder.
 
 
 ## If you like this work, please cite:
