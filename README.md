@@ -17,10 +17,6 @@ Python: 3.11
    
    The pre-trained models can be downloaded from: [Pre-trained models](https://pan.baidu.com/s/1jPi2MgzLLZUJiu-4J9YfOQ?pwd=d9cb). Please download these files and put them in the same folder of code and then run '**test_koniq_rt'*n*'.py**' to make intra/cross dataset test for models trained on *n%* samples.
    
-   
-## For train:  
-The training code can be available at the 'Training' folder.
-
 
 ## If you like this work, please cite:
 
